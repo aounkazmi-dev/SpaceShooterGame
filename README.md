@@ -3,7 +3,7 @@
 A 2D Space Shooter game made in **C++** using **SFML**.  
 Control your spaceship, shoot enemies, avoid collisions, and level up!
 
-## 🎮 Features
+## 🎮 Features here
 
 - Player spaceship movement  
 - Bullet shooting  
